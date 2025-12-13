@@ -1,0 +1,35 @@
+0 Habeş Kedisi (Abyssinian)
+1 Amerikan Bulldog
+2 Basset Hound
+3 Beagle
+4 Bengal Kedisi
+5 Birman Kedisi
+6 Bombay Kedisi
+7 Boxer
+8 British Shorthair
+9 Chihuahua
+10 Mısır Mau (Egyptian Mau)
+11 İngiliz Cocker Spaniel
+12 Alman Kurdu
+13 Danua (Great Dane)
+14 Havanese
+15 Japon Chin
+16 Keeshond
+17 Leonberger
+18 Maine Coon
+19 Minyatür Pinscher
+20 Newfoundland
+21 İran Kedisi (Persian)
+22 Pomeranian
+23 Pug
+24 Ragdoll
+25 Mavi Rus Kedisi (Russian Blue)
+26 Saint Bernard
+27 Samoyed
+28 İskoç Teriyeri
+29 Shiba Inu
+30 Siyam Kedisi (Siamese)
+31 Sfenks Kedisi (Sphynx)
+32 Staffordshire Bull Terrier
+33 Wheaten Terrier
+34 Yorkshire Terrier
